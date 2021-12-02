@@ -3,25 +3,23 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # About the project
- Portfólio pessoal para que vocês possam conhecer meu estilo de programação espero que gostem
-
+ Personal portfolio so you can get to know my programming style I hope you like it
 
 ![Capturar](https://user-images.githubusercontent.com/82983857/144362317-fa9e213e-bc1f-4703-9801-66f10933b0d3.PNG)
 
-# Imagem para aparelhos Móveis 
+# Image for Mobile devices
 
  ![portfolio img mobile](https://user-images.githubusercontent.com/82983857/144460085-26fd3f26-4a10-4f14-99b3-6333a17cea88.PNG)
 
-# Tecnologias Usadas 
+# Technologies Used
 
 HTML
 CSS
 
-# como executar
+# how to run
 
- Para executar o projeto é simples basta você escreve o código html e css no seu arquivo 
-e mudar o link para suas rede-sociais e depois executar no seu navegador 
-
+ To run the project, it's simple you just write the html and css code in your file
+and change the link to your social networks and then run in your browser
 #Autor
 
 ## Fagner Joaquim
