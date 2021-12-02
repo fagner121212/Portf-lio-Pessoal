@@ -8,6 +8,10 @@
 
 ![Capturar](https://user-images.githubusercontent.com/82983857/144362317-fa9e213e-bc1f-4703-9801-66f10933b0d3.PNG)
 
+# Imagem para aparelhos Móveis 
+
+ ![portfolio img mobile](https://user-images.githubusercontent.com/82983857/144460085-26fd3f26-4a10-4f14-99b3-6333a17cea88.PNG)
+
 # Tecnologias Usadas 
 
 HTML
